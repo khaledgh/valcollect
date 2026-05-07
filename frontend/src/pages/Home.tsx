@@ -304,7 +304,7 @@ const Home: React.FC = () => {
                     <div dir="ltr">+966 56 9654748</div>
                   </div>
                 } />
-                <ContactInfo icon={<Mail className="text-[#16c66c]" size={20} />} label="البريد الإلكتروني" value="info@at-institute.com" />
+                <ContactInfo icon={<Mail className="text-[#16c66c]" size={20} />} label="البريد الإلكتروني" value="info@valcollect.com" />
                 <ContactInfo icon={<MapPin className="text-[#16c66c]" size={20} />} label="البحرين" value="ضاحية السيف، شارع 3621، مجمع رقم 436، مبنى رقم 1025، مكتب رقم 50، المنامة" />
                 <ContactInfo icon={<MapPin className="text-[#16c66c]" size={20} />} label="السعودية" value="5058، طريق الأمير محمد بن عبدالعزيز، حي السليمانية، الرياض، 12243-7061" />
               </div>

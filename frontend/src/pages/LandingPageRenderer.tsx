@@ -240,7 +240,7 @@ const LandingPageRenderer: React.FC = () => {
             
             <div className="flex flex-wrap justify-center gap-8 text-gray-600">
               <div className="flex items-center gap-2"><Phone size={18} className="text-[#16c66c]" /> <span>+973 1750 2723</span></div>
-              <div className="flex items-center gap-2"><Mail size={18} className="text-[#16c66c]" /> <span>info@at-institute.com</span></div>
+              <div className="flex items-center gap-2"><Mail size={18} className="text-[#16c66c]" /> <span>info@valcollect.com</span></div>
               <div className="flex items-center gap-2"><MapPin size={18} className="text-[#16c66c]" /> <span>البحرين / السعودية</span></div>
             </div>
             

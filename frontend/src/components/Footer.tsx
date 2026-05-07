@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
           <FooterColumn title="تواصل معنا">
             <ContactItem icon={<Phone size={14} />} text={<span dir="ltr">+973 1750 2723</span>} />
             <ContactItem icon={<Phone size={14} />} text={<span dir="ltr">+966 56 9654748</span>} />
-            <ContactItem icon={<Mail size={14} />} text="info@at-institute.com" />
+            <ContactItem icon={<Mail size={14} />} text="info@valcollect.com" />
             <ContactItem icon={<MapPin size={14} />} text="البحرين - السعودية" />
             <ContactItem icon={<Clock size={14} />} text="الأحد - الخميس: 9:00 ص - 8:00 م" />
           </FooterColumn>
